@@ -20,4 +20,4 @@
 
 ## one ## two ## three ## four ## five
 
-## master ## master 2 ##FAIL
+## master ## master 2 ##FAIL ##SQUASH
